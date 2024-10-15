@@ -4,7 +4,7 @@ import './Contact.css'
 function Contact() {
     return (
         <>
-            <Navbar />
+            {/* <Navbar /> */}
             <div className='flex flex-col mx-auto justify-center items-center my-12'>
                 <div className="contactText my-40">
                     <p className='my-4'>Persoana de contact:</p>

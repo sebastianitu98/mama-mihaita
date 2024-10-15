@@ -4,7 +4,7 @@ import './Home.css'
 function Home() {
     return (
         <>
-            <Navbar />
+            {/* <Navbar /> */}
             <div className='flex flex-col mx-auto justify-center items-center my-40'>
 
                 <img src="energyPerfomanceImage.jpg" alt="Energy Perfomance Image" className='my-12' />
