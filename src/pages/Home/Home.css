@@ -1,0 +1,11 @@
+.homeText{
+    
+    max-width: 700px;
+    color: #F8F9FA;
+    font-family: "DM Sans";
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; /* 28.8px */
+
+}
